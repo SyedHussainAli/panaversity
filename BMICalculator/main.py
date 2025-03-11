@@ -1,5 +1,5 @@
 def main():
-    print("Hello from panaversity!")
+    print("Hello from bmicalculator!")
 
 
 if __name__ == "__main__":
